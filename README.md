@@ -1,4 +1,4 @@
-# CEDR: Longformer-based summarization for case law retrieval
+# Longformer-based summarization for case law retrieval
 The implementation is based on *CEDR: Contextualized Embeddings for Document Ranking*, and we added some modifications for be able to use longformer in the pairwise setting for ranking. We will update the implementation and move the 'train_longformer.py' file to 'train.py'. Most of this readme is copied from CEDR github and will be updated before publishing the paper.
 ## Getting started
 
