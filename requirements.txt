@@ -1,0 +1,8 @@
+torch==1.1.0 #for cedr bert! dqiqn in! baraye longformer, 1.7.0
+pytorch-pretrained-bert==0.6.2
+tqdm
+pytools==2018.5.2
+wheel
+pytrec-eval==0.5
+git+https://github.com/cvangysel/pytrec_eval.git
+transformers==4.0.1 #I will update it just for check LED!
